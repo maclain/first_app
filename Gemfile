@@ -24,6 +24,8 @@ end
 
 gem 'jquery-rails', '2.0.2'
 
+gem 'json', '1.7.7'
+
 group :production do
   gem 'pg', '0.12.2'
 end
